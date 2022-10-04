@@ -1,0 +1,22 @@
+
+  .footer {
+    background-color: rgb(35, 192, 74);
+    justify-content: center;  
+  
+   }
+  
+  .footer ul {
+    list-style: none;
+    display: flex;
+    width: 450px;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  
+  a:hover{
+    background-color: gold;
+  }
+  
+  a:visited{
+    color: cyan;
+  }
